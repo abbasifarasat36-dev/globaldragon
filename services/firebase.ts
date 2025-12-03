@@ -4,7 +4,7 @@ import { getAuth } from "firebase/auth";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: process.env.API_KEY,
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "crypto-dragon-8a27a.firebaseapp.com",
   databaseURL: "https://crypto-dragon-8a27a-default-rtdb.firebaseio.com",
   projectId: "crypto-dragon-8a27a",
