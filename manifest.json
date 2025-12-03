@@ -1,0 +1,23 @@
+{
+  "short_name": "CryptoDragon",
+  "name": "CryptoDragon Watch & Earn",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1E90FF",
+  "background_color": "#0D0D0D",
+  "description": "A simple Watch-to-Earn application with dragon-themed visuals."
+}

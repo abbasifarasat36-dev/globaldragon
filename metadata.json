@@ -1,0 +1,5 @@
+{
+  "name": "CryptoDragon",
+  "description": "A simple Watch-to-Earn application with dragon-themed visuals, earning screens, admin controls, ad rotation, and a withdrawal system.",
+  "requestFramePermissions": []
+}
